@@ -75,3 +75,20 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     background: #fff;
 }
+
+.logos {
+    width: 50%;
+    margin-left: 35%;
+}
+
+.logos img {
+    width: 15%;
+    height: 15%;
+    padding: 10px;
+    float: left;
+    opacity: 0.9;
+}
+
+.logos img:hover {
+    opacity: 1;
+}
